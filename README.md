@@ -10,6 +10,10 @@ mapped onto feedpak's note format, since feedpak notes are plain
 `{time, string, fret}` events rather than engraved (measure/duration-snapped)
 notation the way a `.gp` file is.
 
+## Acknowledgement and thanks
+https://github.com/Metaphysics0/songsterr-downloader
+
+
 ## Requirements
 
 - Python 3.9+
