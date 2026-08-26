@@ -12,6 +12,8 @@ notation the way a `.gp` file is.
 
 ## Acknowledgement and thanks
 https://github.com/Metaphysics0/songsterr-downloader
+https://github.com/yt-dlp/yt-dlp
+https://github.com/ffmpeg/ffmpeg
 
 
 ## Requirements
